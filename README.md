@@ -10,7 +10,7 @@
 ### View the Project Live
 
 If you would like to view this project live, use the link below
-https://pure-garden-16137.herokuapp.com/
+https://glove1911.github.io/React-Employee-Directory/
 
 ### Run the Project Locally
 ** This project requires node.js to run locally so make sure it is installed on your device.  **
